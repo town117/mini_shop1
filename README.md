@@ -1,6 +1,8 @@
 # mini_shop1
 賣玩具
 
+![image](https://github.com/town117/mini_shop1/blob/master/title.jpg)
+歡迎來到Maling road 的玩具店
 
 ![image](https://github.com/town117/mini_shop1/blob/master/bear.jpg)
 這隻柔軟的泰迪熊喜歡每件事物和每個人，但是最重要的是它喜歡莓果，無論是藍色或紅色都喜歡；它是一位忠實朋友，喜歡擁抱，讓你感受更多的愛
