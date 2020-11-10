@@ -3,4 +3,9 @@
 
 
 ![image](https://github.com/town117/mini_shop1/blob/master/bear.jpg)
+
+
 ![image](https://github.com/town117/mini_shop1/blob/master/kk.jpg)
+
+
+![image](https://github.com/town117/mini_shop1/blob/master/shark.jpg)
